@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 with React. This requires to breaking up app’s UI into components, manage component state, and respond to user events.
 
+Click on an image to earn points, but don't click on any more than once!
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -21,3 +23,5 @@ You will also see any lint errors in the console.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+**Play game here**: https://whispering-hollows-87010.herokuapp.com/
