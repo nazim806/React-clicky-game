@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). **clicky-game** is a memory game
 
-with React. This requires to breaking up app’s UI into components, manage component state, and respond to user events.
+using React. This requires to breaking up app’s UI into components, manage component state, and respond to user events.
 
 Click on an image to earn points, but don't click on any more than once!
 
